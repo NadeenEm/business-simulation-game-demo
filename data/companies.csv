@@ -1,0 +1,5 @@
+company_id,company_name,archetype,base_demand,price_sensitivity,marketing_sensitivity,capacity,unit_cost,fixed_cost,ba_code,bi_code,ba_email,bi_email
+1,Alpha Corp,innovative,20000,0.05,0.02,25000,50,200000,ALPHA-BA-123,ALPHA-BI-123,alpha_ba@example.com,alpha_bi@example.com
+2,Beta Industries,stable,18000,0.06,0.03,22000,55,210000,BETA-BA-234,BETA-BI-234,beta_ba@example.com,beta_bi@example.com
+3,Gamma Ltd,aggressive,22000,0.07,0.01,26000,48,230000,GAMMA-BA-345,GAMMA-BI-345,gamma_ba@example.com,gamma_bi@example.com
+4,Delta Solutions,conservative,17000,0.04,0.04,20000,60,180000,DELTA-BA-456,DELTA-BI-456,delta_ba@example.com,delta_bi@example.com
